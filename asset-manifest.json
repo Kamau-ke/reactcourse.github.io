@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactcourse.github.io/static/css/main.f67615ab.css",
+    "main.js": "/reactcourse.github.io/static/js/main.2a3c68c1.js",
+    "index.html": "/reactcourse.github.io/index.html",
+    "main.f67615ab.css.map": "/reactcourse.github.io/static/css/main.f67615ab.css.map",
+    "main.2a3c68c1.js.map": "/reactcourse.github.io/static/js/main.2a3c68c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f67615ab.css",
+    "static/js/main.2a3c68c1.js"
+  ]
+}
